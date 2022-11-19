@@ -1,0 +1,201 @@
+.root {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+}
+.freeBox__vVkhW {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  height: 100%;
+  min-height: 0;
+}
+.freeBox__rsHbb {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  height: 100%;
+  min-height: 0;
+  padding: 20px;
+}
+.freeBox__rsHbb > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  min-height: 0;
+  margin-left: calc(0px - 20px);
+  width: calc(100% + 20px);
+}
+.freeBox__rsHbb > :global(.__wab_flex-container) > *,
+.freeBox__rsHbb > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__rsHbb > :global(.__wab_flex-container) > picture > img,
+.freeBox__rsHbb
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 20px;
+}
+.freeBox__pibro {
+  flex-direction: column;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.freeBox__pibro > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  min-width: 0;
+  min-height: 0;
+  margin-left: calc(0px - 0px);
+  width: calc(100% + 0px);
+  margin-top: calc(0px - 20px);
+  height: calc(100% + 20px);
+}
+.freeBox__pibro > :global(.__wab_flex-container) > *,
+.freeBox__pibro > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__pibro > :global(.__wab_flex-container) > picture > img,
+.freeBox__pibro
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 0px;
+  margin-top: 20px;
+}
+.freeBox__qoev6 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.text__ypBvj {
+  font-family: "Press Start 2P";
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(122, 125, 130);
+  text-transform: uppercase;
+  position: relative;
+}
+.slotTargetNumber {
+  font-family: "Press Start 2P";
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(122, 125, 130);
+  text-transform: uppercase;
+}
+.text__qF1D {
+  position: relative;
+}
+.text__rVcHw {
+  font-family: "Press Start 2P";
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(122, 125, 130);
+  text-transform: uppercase;
+  position: relative;
+}
+.freeBox__d2Thy {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  margin-top: calc(-12px + 20px) !important;
+}
+.freeBox__d2Thy > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.freeBox__d2Thy > :global(.__wab_flex-container) > *,
+.freeBox__d2Thy > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__d2Thy > :global(.__wab_flex-container) > picture > img,
+.freeBox__d2Thy
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.slotTargetTitle {
+  font-size: 32px;
+  font-family: "Bungee";
+  line-height: 1.25;
+}
+.slotTargetTitle > *,
+.slotTargetTitle > :global(.__wab_slot) > *,
+.slotTargetTitle > :global(.__wab_slot) > :global(.__wab_slot) > *,
+.slotTargetTitle
+  > :global(.__wab_slot)
+  > :global(.__wab_slot)
+  > :global(.__wab_slot)
+  > *,
+.slotTargetTitle > picture > img,
+.slotTargetTitle > :global(.__wab_slot) > picture > img,
+.slotTargetTitle > :global(.__wab_slot) > :global(.__wab_slot) > picture > img,
+.slotTargetTitle
+  > :global(.__wab_slot)
+  > :global(.__wab_slot)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  width: auto;
+}
+.text__u7XBd {
+  position: relative;
+}
+.text__ua2Ou {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+  position: relative;
+  height: auto;
+}
+.freeBox__gjQZb {
+  box-shadow: inset 0px 0px 2px 1px rgba(0, 0, 0, 0.07);
+  background: rgb(255, 255, 255);
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 177px;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: dashed;
+}
+.freeBox___1HypV {
+  display: block;
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  left: 160px;
+  top: 19px;
+  border-width: 1px;
+  border-style: dashed;
+}
+.text___6JcB {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+  position: relative;
+  height: auto;
+}
+.freeBox__gb6Sf {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+}
+.footer:global(.__wab_instance) {
+  position: relative;
+}

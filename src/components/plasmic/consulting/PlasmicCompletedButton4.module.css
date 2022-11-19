@@ -1,0 +1,27 @@
+.root {
+  height: auto;
+  color: rgb(59, 21, 21);
+  position: relative;
+  padding: 6px 12px;
+  border: 1px solid rgb(204, 0, 0);
+}
+.roottype_primary {
+  color: rgb(255, 255, 255);
+  background: rgb(48, 143, 232);
+}
+.roottype_danger {
+  color: rgb(255, 136, 0);
+  border-color: rgb(255, 136, 0);
+}
+.rootborder_rounded {
+  border-radius: 20px;
+}
+.rootborder_link {
+  border-style: none;
+}
+.rootsize_small {
+  padding: 2px 8px;
+}
+.rootsize_large {
+  padding: 10px 20px;
+}
